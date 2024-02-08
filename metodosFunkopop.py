@@ -1,0 +1,2 @@
+class Metodos:
+    print(":D")

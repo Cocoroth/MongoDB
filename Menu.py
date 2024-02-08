@@ -1,3 +1,6 @@
+from metodosFunkopop import Metodos
+from metodosTCG import Metodos
+from metodosPeluches import Metodos
 def main():
     app = main()
     while True:
